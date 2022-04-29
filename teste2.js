@@ -750,7 +750,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[16], {
                     frameWidth: 32,
                     frameHeight: 32
                 }),
-                v.load.spritesheet("alchemica_x3", "https://hassegawa91.github.io/teste/teste.png", {
+                v.load.spritesheet("alchemica_x3", "https://gotchi.akamaized.net/png/e11d562f056a434bb41e47c8.png", {
                     frameWidth: 31,
                     frameHeight: 39
                 }),
@@ -1971,7 +1971,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[16], {
         e.exports = function(e) {
             return n(e) || o(e) || i(e) || r()
         }
-    }
+    },
     oI91: function(e, t) {
         e.exports = function(e, t, a) {
             return t in e ? Object.defineProperty(e, t, {
