@@ -750,7 +750,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[16], {
                     frameWidth: 32,
                     frameHeight: 32
                 }),
-                v.load.spritesheet("alchemica_x3", "https://drive.google.com/file/d/1xRTKctoob_c3AVC7_puzj2QLYUUqtC09/view?usp=sharing", {
+                v.load.spritesheet("alchemica_x3", "https://hassegawa91.github.io/teste/teste.png", {
                     frameWidth: 31,
                     frameHeight: 39
                 }),
